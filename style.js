@@ -1,0 +1,285 @@
+/* Minification failed. Returning unminified contents.
+(7972,28): run-time error CSS1038: Expected hex color, found '#8e00000'
+ */
+/**
+ * BxSlider v4.1.2 - Fully loaded, responsive content slider
+ * http://bxslider.com
+ *
+ * Written by: Steven Wanderski, 2014
+ * http://stevenwanderski.com
+ * (while drinking Belgian ales and listening to jazz)
+ *
+ * CEO and founder of bxCreative, LTD
+ * http://bxcreative.com
+ */
+
+
+.bank {
+	text-align: center;
+	width: 145px !important;
+    height: 74px !important;
+    padding: 0px !important;
+    background-color: rgba(0,0,0,0) !important;
+    border: none !important;
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    -ms-border-radius: 0px !important;
+    -o-border-radius: 0px !important;
+    border-radius: 0px !important;
+    margin-left: 0px;
+}
+
+.owl-wrapper .owl-item:nth-child(1) .bank .online {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/bca-online.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .online {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/mandiri-online.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .online {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/bri-online.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .online {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/bni-online.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(5) .bank .online {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/danamon-online.gif') 0px 0px no-repeat !important;
+}
+
+
+.owl-wrapper .owl-item:nth-child(1) .bank .offline {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/bca-offline.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .offline {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/mandiri-offline.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .offline {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/bri-offline.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .offline {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/bni-offline.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(5) .bank .offline {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/danamon-offline.gif') 0px 0px no-repeat !important;
+}
+
+
+.no-top-margin .uppercase {
+color: #ffae00 !important;
+    display: none;
+}
+
+.col-3-x {
+  width: 33%;
+}
+
+.col-3 {
+  width: 33.33333%;
+}
+
+button.btn-small, .btn.btn-small {
+    background: #5F804E !important;
+    background-image: -webkit-linear-gradient(top, #5F804E 0%, #989898 100%) !important;
+    background-image: linear-gradient(to bottom, #5F804E 0%, #989898 100%) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#989898', GradientType=0) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false) !important;
+    color: #000 !important;
+    border-width: 0 !important;
+    -webkit-transition: all 0.2s ease-out !important;
+    -moz-transition: all 0.2s ease-out !important;
+    transition: all 0.2s ease-out !important;
+}
+
+button.btn-small:hover,
+.btn.btn-small:hover {
+  color: #fff !important;
+  background-color: #635339 !important;
+}
+
+.blog-sidebar .nav.menu > li > a {
+font-weight: bold !important;
+border-bottom: 1px solid #323436 !important;
+    border-bottom-width: 1px !important;
+    border-bottom-style: solid !important;
+    border-bottom-color: rgb(50, 52, 54) !important;
+}
+
+.contact-button {
+    height: 83px;
+    left: -1px;
+    position: fixed;
+    top: 110px;
+    width: 36px;
+}
+.sidenav {
+    background: rgba(0, 0, 0, 0) url(http://linebwin.com/slider/gengtoto/table.jpg) no-repeat scroll 0 0;
+    height: 372px;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 60px;
+    position: fixed;
+    top: 110px;
+    transition: all 0.5s ease 0s;
+    width: 0;
+    z-index: 9998;
+}
+.sidenav .closebtn {
+    background: rgba(0, 0, 0, 0) url("http://linebwin.com/slider/gengtoto/close.jpg") no-repeat scroll 0 0;
+    font-size: 36px;
+    margin-right: -2px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 45px;
+    height: 44px;
+}
+
+.side-bbm {
+    font-weight: bold;
+    position: absolute;
+    left: 41px;
+    width: 83px;
+    height: 16px;
+    top: 50px;
+}
+
+.side-wa {
+    font-weight: bold;
+    position: absolute;
+    left: 40px;
+    width: 83px;
+    height: 16px;
+    top: 121px;
+}
+
+.side-line {
+    font-weight: bold;
+    position: absolute;
+    left: 41px;
+    width: 83px;
+    height: 16px;
+    top: 85px;
+}
+
+.breadcrumbs {
+    padding: 20px 0 !important;
+}
+
+.navbar-fixed-top {
+    background: linear-gradient(to right, #1b1b1b 0%, #1b1b1b 50%, #1b1b1b 100%) !important;
+}
+
+button.btn-theme, .btn.btn-theme {
+    border-radius: 9px;
+    background-image: linear-gradient(to bottom, #ffffff 0%, #989898 100%) !important;
+    background: linear-gradient(to right, #1b1b1b 0%, #1d1d1d 50%, #090909 100%) !important;
+    box-shadow: inset 0px 0px 0px 1px rgb(148, 157, 157), inset 0px 2px 0px 0px rgba(163, 155, 155, 0.5), inset 0px 0px 0px 2px #1163a7, 3px 3px 3px 1px rgba(0,0,0,0.15) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#989898', GradientType=0) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false) !important;
+    background-repeat: repeat-x !important;
+    border: 1px solid #000000 !important;
+    color: #e5e5e5 !important;
+    border-width: 0 !important;
+    -webkit-transition: all 0.2s ease-out !important;
+    -moz-transition: all 0.2s ease-out !important;
+    transition: all 0.2s ease-out !important;
+    padding: 8px 12px !important;
+    letter-spacing: 2px !important;
+    font-weight: bolder !important;
+}
+
+.btn:hover, .btn:focus {
+    color: #2076c5 !important;
+}
+
+.news-head {
+    background: linear-gradient(to bottom, #383636 0%, #272626 51%, #404040 100%) !important;
+}
+
+.news-head > h5 {
+    color: #7b8892 !important;
+    text-transform: uppercase !important;
+    font-weight: bold !important;
+}
+
+.news-head > h5 > i {
+    color: #fff !important;
+    background: -webkit-linear-gradient(#bba737, #ffffff) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+}
+
+ul.newsticker > li > a {
+  color: #98a2ab !important;
+  text-transform: uppercase !important;
+}
+
+.news-body {
+    background: linear-gradient(to bottom, #343232 0%, #272626 51%, #3d3d3d 100%) !important;
+}
+
+.section .container {
+  background: #242424 !important;
+  background-image: -moz-linear-gradient(top, #242424 0%, #262626 100%) !important;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#242424), color-stop(100%,#262626)) !important;
+  background-image: -webkit-linear-gradient(top, #242424 0%,#262626 100%) !important;
+  background-image:      -o-linear-gradient(top, #242424 0%,#262626 100%) !important;
+  background-image:         linear-gradient(top, #242424 0%,#262626 100%) !important;
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#242424', endColorstr='#262626',GradientType=0 ) !important;
+  padding: 0 20px 15px 20px !important;
+}
+
+.blog-sidebar .nav.menu > li > a > i {
+    background: -webkit-linear-gradient(#d8bb18, #bcb890) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+}
+
+.results {
+    background: #b5b5b5 !important;
+    background-image: -webkit-linear-gradient(top, #000000 0%,#171616 100%) !important;
+    color: #62add2 !important;
+}
+
+.results h4 {
+    color: #ffffff !important;
+}
+
+.results-detail {
+    background: rgb(24, 26, 27) !important;
+}
+
+footer#footer {
+    border-top: 10px solid #4a4a4a !important;
+}
+
+.slider #progressBar #bar {
+  background: #4a4a4a !important;
+}
