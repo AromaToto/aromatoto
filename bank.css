@@ -1,0 +1,75 @@
+.bank {
+	text-align: center;
+	width: 145px !important;
+    height: 74px !important;
+    padding: 0px !important;
+    background-color: rgba(0,0,0,0) !important;
+    border: none !important;
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    -ms-border-radius: 0px !important;
+    -o-border-radius: 0px !important;
+    border-radius: 0px !important;
+    margin-left: 0px;
+}
+
+.owl-wrapper .owl-item:nth-child(1) .bank .online {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/bca-online.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .online {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/mandiri-online.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .online {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/bri-online.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .online {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/bni-online.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(5) .bank .online {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/danamon-online.gif') 0px 0px no-repeat !important;
+}
+
+
+.owl-wrapper .owl-item:nth-child(1) .bank .offline {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/bca-offline.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .offline {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/mandiri-offline.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .offline {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/bri-offline.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .offline {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/bni-offline.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(5) .bank .offline {
+width: 168px !important;
+  height: 74px !important;
+background: url('http://linebwin.com/slider/gengtoto/danamon-offline.gif') 0px 0px no-repeat !important;
+}
