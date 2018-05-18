@@ -193,18 +193,18 @@ border-bottom: 1px solid #323436 !important;
 }
 
 .navbar-fixed-top {
-    background: linear-gradient(to right, #1b1b1b 0%, #1b1b1b 50%, #1b1b1b 100%) !important;
+    background: linear-gradient(to right, #5F804E 0%, #5F804E 50%, #5F804E 100%) !important;
 }
 
 button.btn-theme, .btn.btn-theme {
     border-radius: 9px;
-    background-image: linear-gradient(to bottom, #5f804e 0%, #989898 100%) !important;
-    background: linear-gradient(to right, #1b1b1b 0%, #1d1d1d 50%, #090909 100%) !important;
+    background-image: linear-gradient(to bottom, #5f804e 0%, #5f804e 100%) !important;
+    background: linear-gradient(to right, #5f804e 0%, #5f804e 50%, #5f804e 100%) !important;
     box-shadow: inset 0px 0px 0px 1px rgb(148, 157, 157), inset 0px 2px 0px 0px rgba(163, 155, 155, 0.5), inset 0px 0px 0px 2px #1163a7, 3px 3px 3px 1px rgba(0,0,0,0.15) !important;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#5f804e', endColorstr='#989898', GradientType=0) !important;
     filter: progid:DXImageTransform.Microsoft.gradient(enabled = false) !important;
     background-repeat: repeat-x !important;
-    border: 1px solid #000000 !important;
+    border: 1px solid #5F804E !important;
     color: #e5e5e5 !important;
     border-width: 0 !important;
     -webkit-transition: all 0.2s ease-out !important;
@@ -220,11 +220,11 @@ button.btn-theme, .btn.btn-theme {
 }
 
 .news-head {
-    background: linear-gradient(to bottom, #383636 0%, #272626 51%, #404040 100%) !important;
+    background: linear-gradient(to bottom, #5f804e 0%, #5f804e 51%, #5f804e 100%) !important;
 }
 
 .news-head > h5 {
-    color: #7b8892 !important;
+    color: #5f804e !important;
     text-transform: uppercase !important;
     font-weight: bold !important;
 }
