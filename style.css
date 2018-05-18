@@ -128,7 +128,7 @@ font-weight: bold !important;
 border-bottom: 1px solid #323436 !important;
     border-bottom-width: 1px !important;
     border-bottom-style: solid !important;
-    border-bottom-color: rgb(50, 52, 54) !important;
+    border-bottom-color: rgba(115,203,123,1) !important;
 }
 
 .contact-button {
@@ -139,7 +139,7 @@ border-bottom: 1px solid #323436 !important;
     width: 36px;
 }
 .sidenav {
-    background: rgba(0, 0, 0, 0) url(http://linebwin.com/slider/gengtoto/table.jpg) no-repeat scroll 0 0;
+    background: rgba(115,203,123,1) url(http://linebwin.com/slider/gengtoto/table.jpg) no-repeat scroll 0 0;
     height: 372px;
     left: 0;
     overflow-x: hidden;
@@ -151,7 +151,7 @@ border-bottom: 1px solid #323436 !important;
     z-index: 9998;
 }
 .sidenav .closebtn {
-    background: rgba(0, 0, 0, 0) url("http://linebwin.com/slider/gengtoto/close.jpg") no-repeat scroll 0 0;
+    background: rgba(115,203,123,1) url("http://linebwin.com/slider/gengtoto/close.jpg") no-repeat scroll 0 0;
     font-size: 36px;
     margin-right: -2px;
     position: absolute;
